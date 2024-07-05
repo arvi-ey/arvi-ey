@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm glad you're here. Here's a little bit about me:
 
 ### About Me
-- 🔭 I’m currently working on **[Your Current Project](link-to-project)**, a project focused on [brief description].
+- 🔭 I’m currently working on **[Clatter](https://github.com/arvi-ey/Clatter)**, a project focused on [brief description].
 - 🌱 I’m currently learning **[technologies/languages/tools]** and constantly improving my skills in [another skill].
 - 👯 I’m looking to collaborate on exciting open-source projects and innovative tech solutions.
 - 🤔 I’m looking for help with [specific area you need help with].
