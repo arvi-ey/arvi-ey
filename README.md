@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm glad you're here. Here's a little bit about me
 - 👯 I’m looking to collaborate on exciting open-source projects and innovative tech solutions.
 - 🤔 I’m looking for help with [specific area you need help with].
 - 💬 Ask me about **[topics you are knowledgeable about]**. I love discussing new ideas and technologies.
-- 📫 How to reach me: **[your-email@example.com]** or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
+- 📫 How to reach me: **[tuhinroyand@gmail.com]** or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Interesting or quirky fact about you]
 
