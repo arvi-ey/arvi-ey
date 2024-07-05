@@ -36,10 +36,10 @@ You can find me on the following platforms:
 - [Blog](https://yourblog.com)
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arvi-ey&show_icons=true&theme=radical)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arvi-ey&layout=compact&theme=radical)
 
 ---
 
