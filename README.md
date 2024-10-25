@@ -3,22 +3,17 @@
 Welcome to my GitHub profile! I'm glad you're here. Here's a little bit about me:
 
 ### About Me
-- 🔭 I’m currently working on **[Clatter](https://github.com/arvi-ey/Clatter)**, a project focused on [brief description].
-- 🌱 I’m currently learning **[technologies/languages/tools]** and constantly improving my skills in [another skill].
+- 🔭 I’m currently working on **[Clatter](https://github.com/arvi-ey/Clatter)**, a project focused on social media application for eal time chat communication.
 - 👯 I’m looking to collaborate on exciting open-source projects and innovative tech solutions.
 - 🤔 I’m looking for help with [specific area you need help with].
-- 💬 Ask me about **[topics you are knowledgeable about]**. I love discussing new ideas and technologies.
-- 📫 How to reach me: **[tuhinroyand@gmail.com]** or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting or quirky fact about you]
+- 💬 Ask me about React js , React Native, Javascipt , Node js and express js. I love discussing new ideas and technologies.
+- 📫 How to reach me: **[tuhinroyand@gmail.com]** or connect with me on [LinkedIn](https://www.linkedin.com/in/tuhin-roy-dev/).
 
 ### My Skills
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** [List of languages]
-- **Frameworks:** [List of frameworks]
-- **Tools:** [List of tools]
-- **Other Skills:** [List of other skills]
+- **Programming Languages:** Javascript , Java
+- **Frameworks:** React js , express js , Next js, React native
 
 ### My Projects
 Here are a few projects I've worked on:
@@ -30,10 +25,7 @@ Here are a few projects I've worked on:
 ### Connect with Me
 You can find me on the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
-- [Blog](https://yourblog.com)
+- [LinkedIn](https://www.linkedin.com/in/tuhin-roy-dev/)
 
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arvi-ey&show_icons=true&theme=radical)
