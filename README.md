@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm glad you're here. Here's a little bit about me:
 
 ### About Me
-- 🔭 I’m currently working on **[Bazaar](https://github.com/arvi-ey/Bazaar)**, a project focused on E-commerce mobile app for ios and android and web admin pannel.
 - 👯 I’m looking to collaborate on exciting open-source projects and innovative tech solutions.
 - 💬 Ask me about React js , React Native, Javascipt , Node js and express js. I love discussing new ideas and technologies.
 - 📫 How to reach me: **[tuhinroyand@gmail.com]** or connect with me on [LinkedIn](https://www.linkedin.com/in/tuhin-roy-dev/).
