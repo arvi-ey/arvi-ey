@@ -13,24 +13,9 @@ Here are some of the technologies and tools I work with:
 - **Programming Languages:** Javascript , Java
 - **Frameworks:** React js , express js , Next js, React native
 
-### My Projects
-Here are a few projects I've worked on:
-
-- **[Project Name](link-to-project)**: [Short description of the project]
-- **[Project Name](link-to-project)**: [Short description of the project]
-- **[Project Name](link-to-project)**: [Short description of the project]
-
 ### Connect with Me
 You can find me on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/tuhin-roy-dev/)
-
-### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arvi-ey&show_icons=true&theme=radical)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arvi-ey&layout=compact&theme=radical)
-
----
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
