@@ -1,21 +1,54 @@
-## Hi there 🙂
+# 👾 I'm Tuhin Roy
 
-Welcome to my GitHub profile! I'm glad you're here. Here's a little bit about me:
+### `Software Engineer` · `Full-Stack Developer` · `Tech Enthusiast`
 
-### About Me
-- 👯 I’m looking to collaborate on exciting open-source projects and innovative tech solutions.
-- 💬 Ask me about React js , React Native, Javascipt , Node js and express js. I love discussing new ideas and technologies.
-- 📫 How to reach me: **[tuhinroyand@gmail.com]** or connect with me on [LinkedIn](https://www.linkedin.com/in/tuhin-roy-dev/).
+> Turning caffeine into code and ideas into reality. ⚡
 
-### My Skills
-Here are some of the technologies and tools I work with:
+I build for the web, mobile, and beyond. From crafting smooth UIs to engineering powerful backends, I'm all about creating software that's fast, scalable, and built to last.
 
-- **Programming Languages:** Javascript , Java
-- **Frameworks:** React js , express js , Next js, React native
+Always learning. Always experimenting. Always building what's next. 🚀
 
-### Connect with Me
-You can find me on the following platforms:
+---
 
-- [LinkedIn](https://www.linkedin.com/in/tuhin-roy-dev/)
+### ⚡ `whoami`
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+- 🧠 Into clean code, problem-solving, and smart architecture.
+- ⚛️ Building with **React, Next.js, Node.js & TypeScript**.
+- 🏗️ Exploring system design, scalable backends, APIs, and database engineering.
+- 📱 Creating experiences across web and mobile.
+- 🧪 Breaking things, fixing them, and learning something new every day.
+- 🤝 Open to cool collaborations and open-source contributions.
+- 📬 **Email:** [tuhinroyand@gmail.com](mailto:tuhinroyand@gmail.com)
+- 🌐 **LinkedIn:** [tuhin-roy-dev](https://www.linkedin.com/in/tuhin-roy-dev/)
+
+---
+
+### 🧬 `tech.stack()`
+
+**// Languages**
+`JavaScript` · `TypeScript` · `Java` · `SQL`
+
+**// Frontend**
+`React.js` · `Next.js` · `React Native` · `Tailwind CSS` · `HTML5` · `CSS3`
+
+**// Backend**
+`Node.js` · `Express.js` · `REST APIs` · `Authentication & Authorization`
+
+**// Databases & Messaging**
+`PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ`
+
+**// Tools & Technologies**
+`Git` · `GitHub` · `Redux Toolkit` · `Zod` · `Stripe` · `OpenAI API`
+
+---
+
+### 📡 `find.me.online()`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin-roy-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuhinroyand@gmail.com)
+
+---
+
+### `while (alive) { build(); learn(); repeat(); }` ⚡
+
+*Less talk. More code. Always evolving.* 🖤
